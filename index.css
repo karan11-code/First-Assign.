@@ -1,0 +1,25 @@
+
+.box1{
+    background-color: violet;
+    padding: 30px;   
+}
+.box2{
+    background-color: tomato;
+    padding: 30px;
+}
+.box3{
+    background-color: rgb(114, 114, 185);
+    padding: 30px;
+}
+h1{
+    color: white;
+    text-align: center;
+
+}
+h5{
+    text-align: center;
+    color: white;
+}
+button{
+    padding: 10px;
+}
